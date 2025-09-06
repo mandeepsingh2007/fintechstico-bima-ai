@@ -1,0 +1,7 @@
+Flask
+Twilio
+requests
+python-dotenv
+PyMuPDF
+google-generativeai
+faiss-cpu
